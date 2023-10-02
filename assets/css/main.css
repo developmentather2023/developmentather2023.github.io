@@ -32,14 +32,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-.logo-link {
-    display: inline-block; /* Ensures the link is treated as a block with dimensions set by the image */
-}
 
-.logo-icon {
-    width: 50px; /* Adjust the width to the desired size of your logo */
-    height: auto; /* Allows the height to scale proportionally with the width */
-}
 Adjust the width, height, and any other styles based on your design preferences.
 
 
